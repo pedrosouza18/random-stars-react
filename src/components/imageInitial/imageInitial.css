@@ -5,7 +5,7 @@
 .box-planet__text {
     padding: 6px;
     position: absolute;
-    left: 9%;
+    left: 23%;
 }
 .box-planet__img {
     background-image: url('img/star.gif');
