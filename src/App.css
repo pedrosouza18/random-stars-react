@@ -9,9 +9,16 @@ body {
   font-size: 20px;
 }
 .box {
-  width: 350px;
-  margin: 200px auto;
+  width: 300px;
+  margin: 25% auto;
   font-family: 'Open Sans Condensed', sans-serif;
   text-transform: uppercase;
   color: #00175b;
+}
+
+@media (min-width: 576px) {
+  .box {
+    width: 350px;
+    margin: 200px auto;
+  }
 }
