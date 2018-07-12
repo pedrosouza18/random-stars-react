@@ -8,7 +8,7 @@
     left: 23%;
 }
 .box-planet__img {
-    background-image: url('img/star.gif');
+    background-image: url('../../images/star.gif');
     background-size: 100% 100%;
     height: 205px;
 }

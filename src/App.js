@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
-import List from './list/list';
-import Button from './button/button';
+import List from './containers/list/list';
+import Button from './components/button/button';
 import Service from './services/service';
 
 class App extends Component {

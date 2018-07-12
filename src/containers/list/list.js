@@ -1,6 +1,6 @@
 import React from 'react';
-import ImageInitial from '../imageInitial/imageInitial';
-import Loader from '../loader/loader';
+import ImageInitial from '../../components/imageInitial/imageInitial';
+import Loader from '../../components/loader/loader';
 import './list.css';
 
 const list = (props) => {
