@@ -1,0 +1,14 @@
+.box-planet {
+    border: 6px solid #00175b;
+}
+.box-planet__title {
+    border-bottom: 6px solid #00175b;
+    padding: 8px;
+    text-align: center;
+}
+.box-planet__descriptions {
+    padding: 25px 25px 80px 25px;
+}
+.box-planet__descriptions div:not(:last-child) {
+    margin-bottom: 8px;
+}

@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #f0ebe1;
+  text-rendering: optimizeLegibility;
+  font-size: 20px;
+}
+.box {
+  width: 350px;
+  margin: 200px auto;
+  font-family: 'Open Sans Condensed', sans-serif;
+  text-transform: uppercase;
+  color: #00175b;
+}

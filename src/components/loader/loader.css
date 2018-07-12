@@ -1,0 +1,18 @@
+.loader {
+    width: 40px;
+    height: 40px;
+    border: 6px solid #00175b;
+    border-radius: 50%;
+    border-left: 6px solid rgba(128, 128, 128, 0.42);
+    animation: loader .9s linear infinite;
+    margin: 10px auto;
+}
+
+@keyframes loader {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
